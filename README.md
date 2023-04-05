@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&center=true&width=600&height=100&lines=PMMP-plugins+developer;TechnoBotyTeam+Owner;RWPE+Developer;SAVEME+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&center=true&width=600&height=100&lines=PMMP-plugins+developer;TechnoBotyTeam+Owner;RWPE+Developer;SAVEME+Developer)]()
 
 ## social networks and tools
 
