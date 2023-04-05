@@ -19,5 +19,5 @@
 
 <img src="https://img.shields.io/static/v1?label=rwpe.ru&message=DEVELOPER&color=blueviolet">
 <img src="https://img.shields.io/static/v1?label=saveme.pw&message=DEVELOPER&color=blueviolet">
-<img src="https://img.shields.io/static/v1?label=summer-world.fun&message=OWNER | DEVELOPER&color=blueviolet">
+<img src="https://img.shields.io/static/v1?label=summer-world.me&message=OWNER | DEVELOPER&color=blueviolet">
 <img src="https://img.shields.io/static/v1?label=TechnoBotyTeam&message=OWNER | DEVELOPER&color=blueviolet">
