@@ -9,6 +9,8 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+[![wakatime](https://wakatime.com/badge/user/f26e1a8f-b4c4-4e37-8ec4-2462c24f2094.svg)](https://wakatime.com/@f26e1a8f-b4c4-4e37-8ec4-2462c24f2094)
 ## Programming languages
 
 <img src="https://img.shields.io/static/v1?label=PHP&message=version 8.2&color=blue&style=for-the-badge&logo=php">
