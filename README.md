@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&center=true&width=600&height=100&lines=PMMP-plugins+developer;TechnoBotyTeam+Owner;RWPE+Developer;SAVEME+Developer)](https://github.com/technoboty)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2610F7&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=RWPE+-+Developer;SAVEME+-+Developer;FlorentineRP+-+Developer;WeaVerseStudio+-+Co-Owner)](https://git.io/typing-svg)
 
 ## social networks and tools
 
@@ -22,4 +22,4 @@
 <img src="https://img.shields.io/static/v1?label=rwpe.ru&message=DEVELOPER&color=blueviolet">
 <img src="https://img.shields.io/static/v1?label=saveme.pw&message=DEVELOPER&color=blueviolet">
 <img src="https://img.shields.io/static/v1?label=summer-world.me&message=OWNER | DEVELOPER&color=blueviolet">
-<img src="https://img.shields.io/static/v1?label=TechnoBotyTeam&message=OWNER | DEVELOPER&color=blueviolet">
+<img src="https://img.shields.io/static/v1?label=WeaveVerseStudio&message=CO-OWNER | DEVELOPER&color=blueviolet">
